@@ -6,6 +6,7 @@
 * [Blind Text Generator](https://www.blindtextgenerator.de/)
 * [Color Picker von Adobe](https://color.adobe.com/de/create)
 * [Smart PNG and JPG compression](https://tinypng.com/)
+* [HTML article, section, header, footer, nav](https://www.mediaevent.de/html/html-section-header.html)
 
 ## CSS Magic
 ### Weiterführende Links zum Thema Selektoren und Typographie
