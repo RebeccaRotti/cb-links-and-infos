@@ -2,6 +2,7 @@
 
 ## nützliche Links
 * [Wiki Selfhtml](https://wiki.selfhtml.org/)
+* [w3schools](https://www.w3schools.com/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Blind Text Generator](https://www.blindtextgenerator.de/)
 * [Color Picker von Adobe](https://color.adobe.com/de/create)
