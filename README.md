@@ -1,2 +1,2 @@
-# links-and-infos
+# Links and Infos
 Helpful links for the course.
