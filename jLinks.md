@@ -3,6 +3,6 @@
 *	[JDK Download](https://adoptopenjdk.net/)
 
 ## IDEs
-* [Geany.org](https://geany.org/) oder alterantiv [Geany.sexy](https://geany.sexy//)
+* [Geany.org](https://geany.org/) or alternative [Geany.sexy](https://geany.sexy//)
 
 ## Alternative Study Material
