@@ -6,9 +6,11 @@
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Blind Text Generator](https://www.blindtextgenerator.de/)
 * [Color Picker von Adobe](https://color.adobe.com/de/create)
+* [Image Color Picker](https://imagecolorpicker.com/de/)
 * [Smart PNG and JPG compression](https://tinypng.com/)
 * [HTML article, section, header, footer, nav](https://www.mediaevent.de/html/html-section-header.html)
 * [MInify Code](http://minifycode.com/html-minifier/)
+* [Unsplash - kostenlose Fotos](https://unsplash.com/)
 
 ## CSS Magic
 ### Weiterführende Links zum Thema Selektoren und Typographie
