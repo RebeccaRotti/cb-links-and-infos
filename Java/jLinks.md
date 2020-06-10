@@ -6,5 +6,6 @@
 * [Geany.org](https://geany.org/) or alternative [Geany.sexy](https://geany.sexy//)
 
 ## Alternative Study Material
-* [programiz.com](https://www.programiz.com/java-programming)
 * [w3schools](https://www.w3schools.com/java/)
+* [programiz.com](https://www.programiz.com/java-programming)
+* [free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) 
