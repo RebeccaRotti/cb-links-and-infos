@@ -12,3 +12,6 @@
 
 ## Alternative Reading Material
 * [free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+
+## Alternative Exercises
+* [w3resource](https://www.w3resource.com/java-exercises/)
