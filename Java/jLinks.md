@@ -9,6 +9,8 @@
 * [w3schools](https://www.w3schools.com/java/)
 * [programiz.com](https://www.programiz.com/java-programming)
 * [CS Princteon](https://introcs.cs.princeton.edu/java/home/)
+* [Tutorialspoint](https://www.tutorialspoint.com/java/index.htm)
+* [geeks for geeks](https://www.geeksforgeeks.org/java/)
 
 ## Alternative Reading Material
 * [free books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
