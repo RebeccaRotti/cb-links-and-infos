@@ -3,7 +3,8 @@
 *	[JDK Download](https://adoptopenjdk.net/)
 
 ## IDEs
-* [Geany.org](https://geany.org/) or alternative [Geany.sexy](https://geany.sexy//)
+* [Geany.org](https://geany.org/) or alternatively [Geany.sexy](https://geany.sexy//)
+* [Intellij](https://www.jetbrains.com/de-de/idea/)
 
 ## Alternative Study Material
 * [w3schools](https://www.w3schools.com/java/)
