@@ -5,6 +5,9 @@
 ## IDEs
 * [Geany.org](https://geany.org/) or alternatively [Geany.sexy](https://geany.sexy//)
 * [IntelliJ](https://www.jetbrains.com/de-de/idea/)
+* You can also use other IDEs, for example Eclipse or Netbeans
+* [Eclipse](https://www.eclipse.org/)
+* [Netbeans](https://netbeans.org/)
 
 ## Alternative Study Material
 * [w3schools](https://www.w3schools.com/java/)
