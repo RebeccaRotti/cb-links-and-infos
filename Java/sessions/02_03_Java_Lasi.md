@@ -203,6 +203,7 @@ Together this a called signature of a method.
 ### Exercise: Methods for util class
 
 Working with methods and starting with our util class, which we will expand and refactor in the future.
+
 ```java
 package at;
 
@@ -241,6 +242,7 @@ public class Util {
 
 ```
 Main method:
+
 ```java
 import at.Util;
 
@@ -257,15 +259,16 @@ public class RoundExample {
 
 On top (before the class statement): 
 
- `import java.util.*`
+ ```import java.util.*```
 
 Use in code like:
-```java
+
+~~~java
 Scanner scanner = new Scanner(System.in);
 String text = scanner.nextLine();
 int number = scanner.nextInt();
 Boolean condition = scanner.nextBoolean();`
-````
+~~~
 
 
 
