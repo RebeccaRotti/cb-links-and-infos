@@ -1,4 +1,8 @@
 # Useful Links and Resources for Java
+
+## Sample solutions
+* [Exercise 03 Spaghetticode](https://github.com/x21L/SpaghettiCode.git)
+
 ## Environment
 * [JDK Download](https://adoptopenjdk.net/)
 
