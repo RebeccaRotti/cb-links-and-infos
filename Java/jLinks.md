@@ -21,3 +21,6 @@
 
 ## Alternative Exercises
 * [w3resource](https://www.w3resource.com/java-exercises/)
+
+## Cheatsheets
+* [IntelliJ Keymap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
