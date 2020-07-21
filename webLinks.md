@@ -6,6 +6,8 @@
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Blind Text Generator](https://www.blindtextgenerator.de/)
 * [Image Color Picker](https://imagecolorpicker.com/de/)
+* [Paletton](http://paletton.com/)
+* [Explore Colors](https://color.adobe.com/de/explore/)
 * [Smart PNG and JPG compression](https://tinypng.com/)
 * [HTML article, section, header, footer, nav](https://www.mediaevent.de/html/html-section-header.html)
 * [MInify Code](http://minifycode.com/html-minifier/)
@@ -35,6 +37,8 @@
 * [Formular-Styling mit CSS – Select-Listen, Radio-Buttons und Checkboxen individuell gestalten ](https://blog.kulturbanause.de/2015/03/formular-styling-mit-css-select-listen-radio-buttons-und-checkboxen-individuell-gestalten/)
 * [<textarea>-Größe erzwingen und Resizing beeinflussen ](https://blog.kulturbanause.de/2009/11/textarea-groesse-in-safari-mit-css-erzwingen/)
 
+### Vererbung
+* [Vererbung in CSS](https://developer.mozilla.org/de/docs/Web/CSS/Vererbung)
 ### Diverses
 * [CSS Coding Guidelines – CSS Code besser schreiben, formatieren und organisieren ](https://blog.kulturbanause.de/2016/10/css-coding-guidelines-css-code-besser-schreiben-formatieren-und-organisieren/)
 * [HTML-Elemente und Semantik ](https://blog.kulturbanause.de/2008/01/html-elemente-und-semantik/)
