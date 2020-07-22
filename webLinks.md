@@ -5,13 +5,14 @@
 * [w3schools](https://www.w3schools.com/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Blind Text Generator](https://www.blindtextgenerator.de/)
-* [Image Color Picker](https://imagecolorpicker.com/de/)
 * [Smart PNG and JPG compression](https://tinypng.com/)
 * [HTML article, section, header, footer, nav](https://www.mediaevent.de/html/html-section-header.html)
 * [MInify Code](http://minifycode.com/html-minifier/)
 * [Unsplash - kostenlose Fotos](https://unsplash.com/)
 
 ## Farben
+* [Image Color Picker](https://imagecolorpicker.com/de/)
+* [Explore Colors](https://color.adobe.com/de/explore/)
 * [Color Picker von Adobe](https://color.adobe.com/de/create)
 * [Color Picker Paletton](http://paletton.com)
 * [Farbkombinationen von anderen Webdesignern](https://color.adobe.com/de/explore/?filter=most-popular&time=month)
@@ -35,6 +36,15 @@
 * [Formular-Styling mit CSS – Select-Listen, Radio-Buttons und Checkboxen individuell gestalten ](https://blog.kulturbanause.de/2015/03/formular-styling-mit-css-select-listen-radio-buttons-und-checkboxen-individuell-gestalten/)
 * [<textarea>-Größe erzwingen und Resizing beeinflussen ](https://blog.kulturbanause.de/2009/11/textarea-groesse-in-safari-mit-css-erzwingen/)
 
+### Vererbung
+* [Vererbung in CSS](https://developer.mozilla.org/de/docs/Web/CSS/Vererbung)
+
+### Schriften
+* [Verbreitung von Schriften auf den einzelnen Systemen](https://www.cssfontstack.com)
+* [font squirrel](https://www.fontsquirrel.com/)
+* [Google Font](https://fonts.google.com/)
+* [Fonts vom Google Server laden - Helper](http://google-webfonts-helper.herokuapp.com/fonts)
+
 ### Diverses
 * [CSS Coding Guidelines – CSS Code besser schreiben, formatieren und organisieren ](https://blog.kulturbanause.de/2016/10/css-coding-guidelines-css-code-besser-schreiben-formatieren-und-organisieren/)
 * [HTML-Elemente und Semantik ](https://blog.kulturbanause.de/2008/01/html-elemente-und-semantik/)
@@ -45,3 +55,6 @@
 * [Webfonts mit der CSS-Regel @font-face einbetten ](https://blog.kulturbanause.de/2012/11/webfonts-mit-der-css-regel-font-face-einbetten/)
 * [Schriftgrößen in vw – Bilder mit Texten proportional skalieren ](https://blog.kulturbanause.de/2016/05/bilder-mit-texten-proportional-skalieren/)
 * [CSS Text Decoration Styling – Farbig unterstrichene Texte, Unterbrechungen bei Unterlängen, Effekte für Linien usw.](https://blog.kulturbanause.de/2017/10/css-text-decoration-styling/)
+
+### Funny
+* [Ban Comic Sans](https://www.facebook.com/pages/category/Community/Ban-Comic-Sans-512093932145100)
