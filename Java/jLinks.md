@@ -29,3 +29,14 @@
 ## Cheatsheets
 * [IntelliJ Keymap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [Java Primitive Datatypes](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+
+## IntelliJ Plugins
+* [plugins.jetbrains.com](https://plugins.jetbrains.com/idea_ce)
+* [Key Promoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+* [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+
+### Fun Stuff
+* [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) provided by Julia
+* [Power Mode](https://plugins.jetbrains.com/plugin/8251-power-mode-ii) provided by Julia
+* [Code Golf](https://plugins.jetbrains.com/plugin/7243-intellij-code-golf)
+* [Discord Integration](https://plugins.jetbrains.com/plugin/10233-discord-integration)
