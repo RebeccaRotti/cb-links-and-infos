@@ -22,6 +22,10 @@
 * [Die Grundlagen der Farbenlehre](https://99designs.de/blog/design-tipps/grundlagen-der-farbenlehre/)
 
 ## CSS Magic
+### Border Spielerei
+* [CSS Triangle](https://css-tricks.com/snippets/css/css-triangle/)
+### Farbverläufe
+* [Farbverlauf erstellen](https://cssgradient.io/)
 ### Weiterführende Links zum Thema Selektoren und Typographie
 * __[!! Wichtig !! -- CSS-Selektoren](https://blog.kulturbanause.de/2012/07/css-selektoren/)__
 * [CSS Text Decoration Styling – Farbig unterstrichene Texte, Unterbrechungen bei Unterlängen, Effekte für Linienusw.](https://blog.kulturbanause.de/2017/10/css-text-decoration-styling)
