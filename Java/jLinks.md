@@ -2,6 +2,8 @@
 
 ## Sample solutions
 * [Exercise 03 Spaghetticode](https://github.com/x21L/SpaghettiCode.git)
+* [Exercise 04 Terminal Calculator](https://github.com/x21L/TerminalCalculator)
+* [Exercise 05 Array Operations](https://github.com/x21L/ArrayOperations)
 
 ## Environment
 * [JDK Download](https://adoptopenjdk.net/)
