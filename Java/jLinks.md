@@ -33,6 +33,7 @@
 ## Cheatsheets
 * [IntelliJ Keymap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [Java Primitive Datatypes](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+* [Java Cheatsheet Princeton](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 ## IntelliJ Plugins
 * [plugins.jetbrains.com](https://plugins.jetbrains.com/idea_ce)
