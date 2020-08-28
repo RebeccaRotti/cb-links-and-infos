@@ -4,6 +4,8 @@
 * [Exercise 03 Spaghetticode](https://github.com/x21L/SpaghettiCode.git)
 * [Exercise 04 Terminal Calculator](https://github.com/x21L/TerminalCalculator)
 * [Exercise 05 Array Operations](https://github.com/x21L/ArrayOperations)
+* Exercise 07
+* [Exercise 07 Game of Life](https://github.com/x21L/GameOfLife)
 
 ## Environment
 * [JDK Download](https://adoptopenjdk.net/)
