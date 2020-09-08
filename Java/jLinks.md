@@ -4,7 +4,7 @@
 * [Exercise 03 Spaghetticode](https://github.com/x21L/SpaghettiCode.git)
 * [Exercise 04 Terminal Calculator](https://github.com/x21L/TerminalCalculator)
 * [Exercise 05 Array Operations](https://github.com/x21L/ArrayOperations)
-* Exercise 07
+* Exercise 06
 * [Exercise 07 Game of Life](https://github.com/x21L/GameOfLife)
 
 ## Environment
@@ -33,7 +33,6 @@
 ## Cheatsheets
 * [IntelliJ Keymap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [Java Primitive Datatypes](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-* [Java Cheatsheet Princeton](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 ## IntelliJ Plugins
 * [plugins.jetbrains.com](https://plugins.jetbrains.com/idea_ce)
