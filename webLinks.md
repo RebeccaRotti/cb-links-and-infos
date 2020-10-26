@@ -9,6 +9,9 @@
 * [HTML article, section, header, footer, nav](https://www.mediaevent.de/html/html-section-header.html)
 * [MInify Code](http://minifycode.com/html-minifier/)
 * [Unsplash - kostenlose Fotos](https://unsplash.com/)
+* [free png download](https://www.pngwing.com/de/)
+* [favicon converter](https://favicon.io/)
+* [font Awesome](https://fontawesome.com/?from=io)
 
 ## Farben
 * [Image Color Picker](https://imagecolorpicker.com/de/)
@@ -38,7 +41,13 @@
 * [Aufzählungen, Nummerierungen und Listen in HTML-Dokumenten ](http://www.pg.bc.bw.schule.de/neu/extern/html/HTML3.html)
 * [HTML Placeholder Farbe mit CSS stylen ](https://blog.kulturbanause.de/2017/09/html-placeholder-text-mit-css-stylen/)
 * [Formular-Styling mit CSS – Select-Listen, Radio-Buttons und Checkboxen individuell gestalten ](https://blog.kulturbanause.de/2015/03/formular-styling-mit-css-select-listen-radio-buttons-und-checkboxen-individuell-gestalten/)
-* [<textarea>-Größe erzwingen und Resizing beeinflussen ](https://blog.kulturbanause.de/2009/11/textarea-groesse-in-safari-mit-css-erzwingen/)
+* [textarea-Größe erzwingen und Resizing beeinflussen ](https://blog.kulturbanause.de/2009/11/textarea-groesse-in-safari-mit-css-erzwingen/)
+
+### CSS Tricks
+* [CSS-Tricks](https://css-tricks.com/)
+#### Flexbox
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 
 ### Vererbung
 * [Vererbung in CSS](https://developer.mozilla.org/de/docs/Web/CSS/Vererbung)
@@ -62,3 +71,10 @@
 
 ### Funny
 * [Ban Comic Sans](https://www.facebook.com/pages/category/Community/Ban-Comic-Sans-512093932145100)
+
+## Visual Studio Code 
+### Code Extensions
+* [Prettier Formatter for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Rainbow Brackets!](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
